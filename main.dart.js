@@ -28578,7 +28578,7 @@ s=2
 return A.D(A.ajy(),$async$aCR)
 case 2:q=b
 p=new A.a31(A.b([],t.O))
-o=new A.a2k("https://shwac-backend.onrender.com/api/v1",p)
+o=new A.a2k("https://shwac-backend-akky.onrender.com/api/v1",p)
 $.cv.b=o
 $.aSg.b=q
 p=A.aXs(o,q,"cust.session")
